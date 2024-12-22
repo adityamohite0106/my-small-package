@@ -1,0 +1,12 @@
+{
+  "name": "my-small-package",
+  "version": "1.0.0",
+  "description": "A simple Node.js package to greet users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node start.js"
+  },
+  "keywords": ["greet", "utility", "nodejs"],
+  "author": "Aditya Mohite",
+  "license": "MIT"
+}
